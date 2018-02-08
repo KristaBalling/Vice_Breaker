@@ -1,0 +1,18 @@
+Vice Breaker app 
+
+login/logout user registration
+
+add name of vice and a goal
+
+button to click to add to a counter
+how many times you used that vice today
+
+Oops! button to remove one if you added too many
+
+when goal is reached, stop right there message
+
+if you go over the goal, failure message
+
+under goal for the day, congrats message
+
+end of the day, post total to page with time and date stamp 
