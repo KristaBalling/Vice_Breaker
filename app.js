@@ -11,4 +11,7 @@ app.get('/', function (req, res){
     res.render('index');
 });
 
-app.listen(3000);
+app.listen(3000, function(){
+    console.log('Server ready to roll at port 3000');
+
+});
